@@ -13,7 +13,7 @@ Fork on GitHub6772
 
 - 🌱 I’m currently learning **Game Dev**
 
-- 👨‍💻 All of my projects are available at [(under maintainence)]((under maintainence))
+- 👨‍💻 All of my projects are available at (my portfolio is under development)
 
 - 📫 How to reach me **variety.webop@gmail.com**
 
