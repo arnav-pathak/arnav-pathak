@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo21483
-Fork on GitHub6772
+
 <h1 align="center">Hi 👋, I'm Arnav Pathak</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
