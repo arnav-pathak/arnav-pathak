@@ -5,7 +5,7 @@
 🔭 I’m currently working on VoxelAI<br>🌱 I’m currently learning Rust (Trying)<br><br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_asteroiq) 
 
 # 💻 Tech Stack:
