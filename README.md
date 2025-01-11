@@ -1,6 +1,6 @@
 
 <h1 align="center">--Arnav Pathak--</h1>
-# 💫 About Me:
+#💫 About Me:
 
 🔭 I’m currently working on VoxelAI<br>🌱 I’m currently learning Rust (Trying)<br><br>
 
